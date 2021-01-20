@@ -17,15 +17,16 @@ def third_challenge
         #your key/value pairs here
         },
           :hero_friends => [
+            {
             :name => "Mercutio",
             :agee => "18",
             :attitude => "hot-headed"
-         ],
+            },
             {
             :name => "Benvolio",
             :age => "17",
             :attitude => "worried"
-            },
+            }
             ]
           },
      :capulet => {
