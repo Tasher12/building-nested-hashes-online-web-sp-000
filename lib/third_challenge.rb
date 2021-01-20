@@ -20,14 +20,14 @@ def third_challenge
             :name => "Mercutio",
             :agee => "18",
             :attitude => "hot-headed"
-   },
+         },
             {
             :name => "Benvolio",
             :age => "17",
             :attitude => "worried"
             }
             ]
-  },
+          },
      :capulet => {
       :patriarch => {
         :name => "Lord Capulet",
